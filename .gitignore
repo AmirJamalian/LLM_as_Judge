@@ -1,0 +1,16 @@
+# Ignore specific files
+API_Key.txt
+Emails.txt
+Links.txt
+formula.xlsx
+
+# Ignore all `.log` files
+*.log
+
+# Ignore a folder
+.venv/
+Misc_Files/
+
+# Ignore files in a specific subdirectory
+# /path/to/ignore/*.temp
+
