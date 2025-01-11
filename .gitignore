@@ -3,6 +3,7 @@ API_Key.txt
 Emails.txt
 Links.txt
 formula.xlsx
+submission.csv
 
 # Ignore all `.log` files
 *.log
